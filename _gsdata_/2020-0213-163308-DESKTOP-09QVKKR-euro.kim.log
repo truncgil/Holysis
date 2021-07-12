@@ -1,0 +1,10 @@
+2020-02-13 16:45:48: == Sync Started by Continue After User Wait
+2020-02-13 16:45:50: Delete File 'D:/xampp/htdocs/otto2020/storage/framework/sessions/eWekd1q6vNMxRfvKoqVCkmGE8NqO7LzD2UzmqGLb'
+2020-02-13 16:45:50: Delete File 'D:/xampp/htdocs/otto2020/storage/framework/sessions/mfhwDuvGHlqzzUfqMHefPjV6SMDVUKi1eNoLThng'
+2020-02-13 16:45:50: /storage/app/files/csv-planning/YPTAB_INT.TXT: Analyze error: Two items on Left side are named the same after normalization and lower-casing: '/storage/app/files/csv-planning/YPTAB_INT.txt' vs '/storage/app/files/csv-planning/YPTAB_INT.TXT'
+2020-02-13 16:45:50: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/sessions/6ckehsJ5etddy07zMH1839c1NL0D7DieCw4N1zHL' -> 'D:/xampp/htdocs/otto2020/storage/framework/sessions/6ckehsJ5etddy07zMH1839c1NL0D7DieCw4N1zHL' (267)
+2020-02-13 16:45:50: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/sessions/6vCfIPCilp99OaRgEiRP3jEs4TS5GWvQHEKhWlq6' -> 'D:/xampp/htdocs/otto2020/storage/framework/sessions/6vCfIPCilp99OaRgEiRP3jEs4TS5GWvQHEKhWlq6' (318)
+2020-02-13 16:45:54: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/framework/sessions/WBeA3lkHZwePkQO9vGoJOC5sLc8i06zMr4NoDzr7
+2020-02-13 16:45:54: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/framework/sessions/rUVQSwxEhwstwcjx1rAlkX8423T9hJ2AtIgAyG0Y
+2020-02-13 16:45:54: == Sync Complete. Time: 00:00:06, Speed: 16.38 KB/s, OK: 4, Errors: 1
+2020-02-13 16:45:54: 

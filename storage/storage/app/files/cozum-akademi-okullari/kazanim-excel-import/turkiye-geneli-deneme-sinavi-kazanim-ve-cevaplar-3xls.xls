@@ -1,0 +1,1680 @@
+    <!DOCTYPE html>
+    <html lang="en">
+    <head>
+        <meta http-equiv="content-type" content="application/xhtml+xml; charset=UTF-8" />
+        <title>Excel Kazanım</title>
+    </head>
+    <body>
+        
+    
+    
+<table border="1">
+    <tr>
+        <th>Test Adı</th>
+        <th>A Soru No</th>
+        <th>B Soru No</th>
+        <th>Doğru Cevap	</th>
+        <th>Kazanım Kodu veya Kazanım Metni	</th>
+        <th>Taksonomik Düzey	</th>
+        <th>C Soru No	</th>
+        <th>D Soru No</th>
+
+    </tr>
+                         <h3></h3>
+                             <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>1</td>
+        <td></td>
+        <td>
+        AC        </td>
+        <td></td>
+        <td>A2</td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>2</td>
+        <td></td>
+        <td>
+        C        </td>
+        <td></td>
+        <td>A1</td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>3</td>
+        <td></td>
+        <td>
+        C        </td>
+        <td></td>
+        <td>A1</td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>4</td>
+        <td></td>
+        <td>
+        C        </td>
+        <td></td>
+        <td>A2</td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>5</td>
+        <td></td>
+        <td>
+        C        </td>
+        <td></td>
+        <td>A2</td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>6</td>
+        <td></td>
+        <td>
+        C        </td>
+        <td></td>
+        <td>A2</td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>7</td>
+        <td></td>
+        <td>
+        C        </td>
+        <td></td>
+        <td>A2</td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>8</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td>A2</td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>9</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>10</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>11</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>12</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>13</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>14</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>15</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>16</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>17</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>18</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>19</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>20</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>21</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>22</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>23</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>24</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>25</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>26</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>27</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>28</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>29</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TÜRKÇE (TYT)</td>
+        <td>30</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+                             <h3></h3>
+                             <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>1</td>
+        <td></td>
+        <td>
+        A        </td>
+        <td></td>
+        <td>A4</td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>2</td>
+        <td></td>
+        <td>
+        A        </td>
+        <td></td>
+        <td>A2</td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>3</td>
+        <td></td>
+        <td>
+        A        </td>
+        <td></td>
+        <td>A5</td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>4</td>
+        <td></td>
+        <td>
+        A        </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>5</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>6</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>7</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>8</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>9</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>10</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>11</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>12</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>13</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>14</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>15</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>16</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>17</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>18</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>19</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>20</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>21</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>22</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>23</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>24</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>25</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>26</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>27</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>28</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>29</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>FELSEFE (TYT)</td>
+        <td>30</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+                             <h3></h3>
+                             <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>1</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>2</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>3</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>4</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>5</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>6</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>7</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>8</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>9</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>10</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>11</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>12</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>13</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>14</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>15</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>16</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>17</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>18</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>19</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>20</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>21</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>22</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>23</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>24</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>25</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>26</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>27</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>28</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>29</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>MATEMATİK (AYT)</td>
+        <td>30</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+                             <h3></h3>
+                             <tr>
+        <td>TARİH (TYT)</td>
+        <td>1</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>2</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>3</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>4</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>5</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>6</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>7</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>8</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>9</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>10</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>11</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>12</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>13</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>14</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>15</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>16</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>17</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>18</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>19</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>20</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>21</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>22</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>23</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>24</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>25</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>26</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>27</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>28</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>29</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>TARİH (TYT)</td>
+        <td>30</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+                             <h3></h3>
+                             <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>1</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>2</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>3</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>4</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>5</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>6</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>7</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>8</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>9</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>10</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>11</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>12</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>13</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>14</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>15</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>16</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>17</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>18</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>19</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>20</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>21</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>22</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>23</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>24</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>25</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>26</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>27</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>28</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>29</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        <tr>
+        <td>DİN KÜLTÜRÜ (TYT)</td>
+        <td>30</td>
+        <td></td>
+        <td>
+                </td>
+        <td></td>
+        <td></td>
+        <td></td>
+        <td></td>
+    </tr>
+        </table>
+</body>
+    </html>

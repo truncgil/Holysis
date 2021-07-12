@@ -1,0 +1,6 @@
+2020-02-13 15:33:03: == Sync Started by Continue After User Wait
+2020-02-13 15:33:04: /storage/app/files/csv-planning/YPTAB_INT.TXT: Analyze error: Two items on Left side are named the same after normalization and lower-casing: '/storage/app/files/csv-planning/YPTAB_INT.txt' vs '/storage/app/files/csv-planning/YPTAB_INT.TXT'
+2020-02-13 15:33:08: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/framework/sessions/I7LTXtbJ02VuV1F0jhc57kycdAF8VFpmsQSlYgfI
+2020-02-13 15:33:08: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/framework/sessions/1C1tHGRkagLHKrWPYB7RIo0I01cxIxHH5pfPqjfw
+2020-02-13 15:33:08: == Sync Complete. Time: 00:00:06, Speed: 0.00/s, OK: 0, Errors: 1
+2020-02-13 15:33:08: 

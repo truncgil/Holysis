@@ -1,0 +1,7 @@
+2020-02-13 09:55:21: == Sync Started by Continue After User Wait
+2020-02-13 09:55:21: /storage/app/files/csv-planning/YPTAB_INT.TXT: Analyze error: Two items on Left side are named the same after normalization and lower-casing: '/storage/app/files/csv-planning/YPTAB_INT.txt' vs '/storage/app/files/csv-planning/YPTAB_INT.TXT'
+2020-02-13 09:55:24: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/logs/laravel-2019-12-26.log
+2020-02-13 09:55:24: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/framework/sessions/MFcjoDLkPyrLcRIpEIUiNdjv7WbsVAYF2iTIT8pE
+2020-02-13 09:55:24: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/framework/sessions/TAOdZpCLMk5LEjIej7wlliZe8qHpeTr5BGpEcQOs
+2020-02-13 09:55:24: == Sync Complete. Time: 00:00:04, Speed: 0.00/s, OK: 0, Errors: 1
+2020-02-13 09:55:24: 

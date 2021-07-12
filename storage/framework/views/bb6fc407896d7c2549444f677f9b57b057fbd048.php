@@ -1,0 +1,1 @@
+ogrenci bilgileri<?php /**PATH /home/dijimind/app/resources/views/admin-ajax/ogrenci-bilgileri.blade.php ENDPATH**/ ?>

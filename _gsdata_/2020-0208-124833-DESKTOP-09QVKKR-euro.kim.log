@@ -1,0 +1,19 @@
+2020-02-08 12:55:27: == Sync Started by Continue After User Wait
+2020-02-08 12:55:28: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/chart/multi-chart.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/chart/multi-chart.blade.php' (1.773)
+2020-02-08 12:55:29: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/type/default.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/type/default.blade.php' (6.027)
+2020-02-08 12:55:29: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/type/requirements/handformerei.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/type/requirements/handformerei.blade.php' (514)
+2020-02-08 12:55:29: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/type/requirements/mass-mortel.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/type/requirements/mass-mortel.blade.php' (510)
+2020-02-08 12:55:29: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/type/requirements/schamotte.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/type/requirements/schamotte.blade.php' (502)
+2020-02-08 12:55:29: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/type/requirements/silika.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/type/requirements/silika.blade.php' (490)
+2020-02-08 12:55:30: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/types.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/types.blade.php' (359)
+2020-02-08 12:55:30: /storage/app/files/csv-planning/YPTAB_INT.TXT: Analyze error: Two items on Left side are named the same after normalization and lower-casing: '/storage/app/files/csv-planning/YPTAB_INT.txt' vs '/storage/app/files/csv-planning/YPTAB_INT.TXT'
+2020-02-08 12:55:30: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/sessions/I4FDIRRBoqazpouRa8AJPitDZqC3u9z56mxI1Pu1' -> 'D:/xampp/htdocs/otto2020/storage/framework/sessions/I4FDIRRBoqazpouRa8AJPitDZqC3u9z56mxI1Pu1' (285)
+2020-02-08 12:55:30: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/218cfca0c22b4bef28a788bc0da81de7ad3aa991.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/218cfca0c22b4bef28a788bc0da81de7ad3aa991.php' (709)
+2020-02-08 12:55:31: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/30a670f78e90d8b1929895694d565124b11ea4b9.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/30a670f78e90d8b1929895694d565124b11ea4b9.php' (2.019)
+2020-02-08 12:55:31: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/31db72ef4e58f223704e4c6c76e3141040877395.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/31db72ef4e58f223704e4c6c76e3141040877395.php' (926)
+2020-02-08 12:55:32: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/acf3d6a7e0ace1847b7b46c6e070a8ba57e904ae.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/acf3d6a7e0ace1847b7b46c6e070a8ba57e904ae.php' (704)
+2020-02-08 12:55:32: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/ca8c8c67ac10adcce715710eceac3704d8fb0c01.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/ca8c8c67ac10adcce715710eceac3704d8fb0c01.php' (679)
+2020-02-08 12:55:32: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/cfbd552b1cf7a8f93cec94a079c4cfb5eeafb7b6.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/cfbd552b1cf7a8f93cec94a079c4cfb5eeafb7b6.php' (694)
+2020-02-08 12:55:33: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/logs/laravel-2020-02-08.log' -> 'D:/xampp/htdocs/otto2020/storage/logs/laravel-2020-02-08.log' (496.950)
+2020-02-08 12:55:36: == Sync Complete. Time: 00:00:10, Speed: 55.00 KB/s, OK: 15, Errors: 1
+2020-02-08 12:55:36: 

@@ -1,0 +1,69 @@
+2020-02-06 11:23:06: == Sync Started by Continue After User Wait
+2020-02-06 11:23:07: Delete File 'D:/xampp/htdocs/otto2020/storage/framework/sessions/0rLfaJEC8H4U0ZIDIJqzIruzPIYFiTo2u5kPHHhJ'
+2020-02-06 11:23:07: Delete File 'D:/xampp/htdocs/otto2020/storage/framework/sessions/cyOKuJnIL6R5KDrAUA473aKKTsXilt7Fh6LtAhIz'
+2020-02-06 11:23:07: Delete File 'D:/xampp/htdocs/otto2020/storage/framework/sessions/EYo393i85vZPHb9G1LfxT6T9N7AWiAh7o0OGDFRa'
+2020-02-06 11:23:07: Delete File 'D:/xampp/htdocs/otto2020/storage/framework/sessions/ZvpIy0Lc5VKNxO92Uzml29BxJfO1pF9WsHCLu9UY'
+2020-02-06 11:23:07: Delete File 'D:/xampp/htdocs/otto2020/storage/logs/laravel-2020-01-14.log'
+2020-02-06 11:23:07: Delete File 'D:/xampp/htdocs/otto2020/storage/logs/laravel-2020-01-15.log'
+2020-02-06 11:23:07: Delete File 'D:/xampp/htdocs/otto2020/storage/logs/laravel-2020-01-16.log'
+2020-02-06 11:23:07: Create Folder 'D:/xampp/htdocs/otto2020/resources/views/admin/dashboard/worker'
+2020-02-06 11:23:08: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/.env' -> 'D:/xampp/htdocs/otto2020/.env' (895)
+2020-02-06 11:23:43: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/app.zip' -> 'D:/xampp/htdocs/otto2020/app.zip' (54.183.153)
+2020-02-06 11:23:44: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/dashboard/worker/department.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/dashboard/worker/department.blade.php' (12)
+2020-02-06 11:23:44: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/dashboard/worker/presence.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/dashboard/worker/presence.blade.php' (8)
+2020-02-06 11:23:44: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/dashboard/worker/temporary.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/dashboard/worker/temporary.blade.php' (1.663)
+2020-02-06 11:23:44: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/dashboard/worker/workers.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/dashboard/worker/workers.blade.php' (3.462)
+2020-02-06 11:23:44: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/dashboard/worker/workstation.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/dashboard/worker/workstation.blade.php' (2.290)
+2020-02-06 11:23:45: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/dashboard/worker.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/dashboard/worker.blade.php' (935)
+2020-02-06 11:23:45: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/dashboard/worker2.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/dashboard/worker2.blade.php' (1.143)
+2020-02-06 11:23:45: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/inc/script.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/inc/script.blade.php' (7.265)
+2020-02-06 11:23:45: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/index.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/index.blade.php' (1.400)
+2020-02-06 11:23:46: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/type/key-figures/sap.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/type/key-figures/sap.blade.php' (2.213)
+2020-02-06 11:23:46: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/type/key-figures/workers.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/type/key-figures/workers.blade.php' (4.031)
+2020-02-06 11:23:47: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/type/planning/board.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/type/planning/board.blade.php' (19.428)
+2020-02-06 11:23:47: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/type/planning/inc/customScript.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/type/planning/inc/customScript.blade.php' (27.475)
+2020-02-06 11:23:47: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin/type/planning/sap.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin/type/planning/sap.blade.php' (2.880)
+2020-02-06 11:23:48: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin-ajax/flexmonster.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin-ajax/flexmonster.blade.php' (992)
+2020-02-06 11:23:48: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin-ajax/password-update.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin-ajax/password-update.blade.php' (668)
+2020-02-06 11:23:48: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin-ajax/planning-detail.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin-ajax/planning-detail.blade.php' (13.465)
+2020-02-06 11:23:48: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/admin-ajax/profile-update.blade.php' -> 'D:/xampp/htdocs/otto2020/resources/views/admin-ajax/profile-update.blade.php' (909)
+2020-02-06 11:23:48: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/resources/views/keyfigures-sap-merge.php' -> 'D:/xampp/htdocs/otto2020/resources/views/keyfigures-sap-merge.php' (397)
+2020-02-06 11:23:48: /storage/app/files/csv-planning/YPTAB_INT.TXT: Analyze error: Two items on Left side are named the same after normalization and lower-casing: '/storage/app/files/csv-planning/YPTAB_INT.txt' vs '/storage/app/files/csv-planning/YPTAB_INT.TXT'
+2020-02-06 11:23:49: ftp://euro.kim:21/otto2020.euro.kim/storage/framework/sessions/1HMjOLkZ9z0gSBPoVQMye4nCma5t4ZZfTzy3Iuot: Source file has changed between Analyze and Sync from '[file] size=281 accu-time=2020-02-06 11:18:37 attr= cktype=0' to 'size=281 time=2020-02-06 11:23:47', noted in source file state
+2020-02-06 11:23:49: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/sessions/1HMjOLkZ9z0gSBPoVQMye4nCma5t4ZZfTzy3Iuot' -> 'D:/xampp/htdocs/otto2020/storage/framework/sessions/1HMjOLkZ9z0gSBPoVQMye4nCma5t4ZZfTzy3Iuot' (281)
+2020-02-06 11:23:49: ftp://euro.kim:21/otto2020.euro.kim/storage/framework/sessions/7oWpxVUYrqzg7NlBAc3HWpGwi33oz0zNKQMPdUcq: Source file has changed between Analyze and Sync from '[file] size=281 accu-time=2020-02-06 11:16:14 attr= cktype=0' to 'size=281 time=2020-02-06 11:23:47', noted in source file state
+2020-02-06 11:23:49: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/sessions/7oWpxVUYrqzg7NlBAc3HWpGwi33oz0zNKQMPdUcq' -> 'D:/xampp/htdocs/otto2020/storage/framework/sessions/7oWpxVUYrqzg7NlBAc3HWpGwi33oz0zNKQMPdUcq' (281)
+2020-02-06 11:23:49: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/sessions/HyduPYrA7Hmn9LzNuWimChLML19dszADAblwsjcM' -> 'D:/xampp/htdocs/otto2020/storage/framework/sessions/HyduPYrA7Hmn9LzNuWimChLML19dszADAblwsjcM' (265)
+2020-02-06 11:23:50: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/0354b9d1d5d128d7481ae749dd2667ec206e933b.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/0354b9d1d5d128d7481ae749dd2667ec206e933b.php' (14.026)
+2020-02-06 11:23:50: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/03b3a9d186e09d78200e3c4c6f4968859aad1adf.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/03b3a9d186e09d78200e3c4c6f4968859aad1adf.php' (1.153)
+2020-02-06 11:23:50: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/324923767b93c1a4c32190e40d3071f7d6b956c4.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/324923767b93c1a4c32190e40d3071f7d6b956c4.php' (128)
+2020-02-06 11:23:50: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/3597c0148a318eca28e3445e11ee0a1acbcd9a31.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/3597c0148a318eca28e3445e11ee0a1acbcd9a31.php' (2.120)
+2020-02-06 11:23:51: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/452e057ff69d610ab4dd686c39c1a70ddcb63bd3.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/452e057ff69d610ab4dd686c39c1a70ddcb63bd3.php' (7.570)
+2020-02-06 11:23:51: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/4cd62bb710e4ac233aa985a300df6a5b53913d4a.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/4cd62bb710e4ac233aa985a300df6a5b53913d4a.php' (4.852)
+2020-02-06 11:23:51: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/6c5bfb21c9e73b2a5366ba989cc96740cffc0373.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/6c5bfb21c9e73b2a5366ba989cc96740cffc0373.php' (4.015)
+2020-02-06 11:23:51: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/708ded1de6fe87384e0e3166b4bdbf85cb3c6656.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/708ded1de6fe87384e0e3166b4bdbf85cb3c6656.php' (2.578)
+2020-02-06 11:23:51: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/9013a3b1fb24b0d219a921ae12d3de571add3645.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/9013a3b1fb24b0d219a921ae12d3de571add3645.php' (21.378)
+2020-02-06 11:23:51: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/9f59f12338b60cc38a307f97ee50e560a8396758.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/9f59f12338b60cc38a307f97ee50e560a8396758.php' (1.933)
+2020-02-06 11:23:52: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/a3dd76a25e040e58a249e940d5656d96dfda1be2.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/a3dd76a25e040e58a249e940d5656d96dfda1be2.php' (1.082)
+2020-02-06 11:23:52: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/bb471427ac5b17adcb3297e323918ff78a8da297.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/bb471427ac5b17adcb3297e323918ff78a8da297.php' (2.613)
+2020-02-06 11:23:52: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/d271a6ab83cf6b010372ed05d46100b1c99f03f7.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/d271a6ab83cf6b010372ed05d46100b1c99f03f7.php' (3.256)
+2020-02-06 11:23:52: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/e5f624116216b058128b52267cae97cafaf4b943.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/e5f624116216b058128b52267cae97cafaf4b943.php' (122)
+2020-02-06 11:23:52: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/views/f36c6d0548b8aaedb5a59bbaad354f17c4469959.php' -> 'D:/xampp/htdocs/otto2020/storage/framework/views/f36c6d0548b8aaedb5a59bbaad354f17c4469959.php' (27.594)
+2020-02-06 11:23:53: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/logs/laravel-2020-02-03.log' -> 'D:/xampp/htdocs/otto2020/storage/logs/laravel-2020-02-03.log' (1.400.106)
+2020-02-06 11:23:54: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/storage/logs/laravel-2020-02-04.log' -> 'D:/xampp/htdocs/otto2020/storage/logs/laravel-2020-02-04.log' (734.702)
+2020-02-06 11:23:56: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/storage/logs/laravel-2020-02-05.log' -> 'D:/xampp/htdocs/otto2020/storage/logs/laravel-2020-02-05.log' (930.874)
+2020-02-06 11:23:56: Copy New 'ftp://euro.kim:21/otto2020.euro.kim/storage/logs/laravel-2020-02-06.log' -> 'D:/xampp/htdocs/otto2020/storage/logs/laravel-2020-02-06.log' (13.013)
+2020-02-06 11:23:59: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/framework/sessions/hjRrlq1DEWsRZ28TmmEVdPae8qiBDTltEyBAmyKE
+2020-02-06 11:23:59: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/logs/laravel-2019-12-18.log
+2020-02-06 11:23:59: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/app/files/csv-planning/YPTAB_INT3 (1).csv
+2020-02-06 11:23:59: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/resources/views/admin/dashboard/workstation.blade.php
+2020-02-06 11:23:59: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/app/files/csv/YPRO-3.csv
+2020-02-06 11:23:59: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/resources/views/admin-ajax/delete-row.php
+2020-02-06 11:23:59: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/logs/laravel-2019-12-16.log
+2020-02-06 11:23:59: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/app/files/csv-planning/YPTAB_INT3.XLSX
+2020-02-06 11:23:59: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/framework/sessions/ZxPXuBDwMZKGSFSlcaGg5tCf5f7MBOE3l1gKpgJw
+2020-02-06 11:23:59: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/app/files/csv/YPRO_CSV.csv
+2020-02-06 11:23:59: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/logs/laravel-2019-12-17.log
+2020-02-06 11:23:59: Deleted Recycled: D:/xampp/htdocs/otto2020/_gsdata_/_saved_/storage/app/files/csv-planning/YPTAB_INT3.csv
+2020-02-06 11:23:59: == Sync Complete. Time: 00:00:54, Speed: 1.13 MB/s, OK: 51, Errors: 1
+2020-02-06 11:23:59: 

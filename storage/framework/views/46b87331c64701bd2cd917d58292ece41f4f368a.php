@@ -1,0 +1,1 @@
+uygulama<?php /**PATH /home/dijimind/app/resources/views/admin/type/ayarlar/bildirim-ayarlari.blade.php ENDPATH**/ ?>

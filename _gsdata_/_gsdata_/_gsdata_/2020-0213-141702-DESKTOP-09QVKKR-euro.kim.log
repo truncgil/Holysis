@@ -1,0 +1,4 @@
+2020-02-13 14:24:14: == Sync Started by Continue After User Wait
+2020-02-13 14:24:15: /storage/app/files/csv-planning/YPTAB_INT.TXT: Analyze error: Two items on Left side are named the same after normalization and lower-casing: '/storage/app/files/csv-planning/YPTAB_INT.txt' vs '/storage/app/files/csv-planning/YPTAB_INT.TXT'
+2020-02-13 14:24:18: == Sync Complete. Time: 00:00:04, Speed: 0.00/s, OK: 0, Errors: 1
+2020-02-13 14:24:18: 

@@ -1,0 +1,3 @@
+<?php 
+oturumAc();
+echo "ok"; ?>
