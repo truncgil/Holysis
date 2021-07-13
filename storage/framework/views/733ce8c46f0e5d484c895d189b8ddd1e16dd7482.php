@@ -1,0 +1,1 @@
+<?php echo e(e2("Test")); ?><?php /**PATH /home/dijimin2/hacksmarcity/resources/views/iot.blade.php ENDPATH**/ ?>

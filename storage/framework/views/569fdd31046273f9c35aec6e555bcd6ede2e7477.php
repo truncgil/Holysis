@@ -12,11 +12,11 @@
                         <div class="hero-static col-md-6 col-xl-8 d-none d-md-flex align-items-md-end">
                             <div class="p-30 js-appear-enabled animated fadeIn" data-toggle="appear">
                                 <p class="font-size-h3 font-w600 text-white">
-                                    <?php echo e(e2("Slogan")); ?>
+                                    <?php echo e(e2("Bütünsel Çözümleme Sistemi")); ?>
 
                                 </p>
                                 <p class="font-italic text-white-op">
-                                   <?php echo e(e2("Her Hakkı Saklıdır")); ?> © <span class="js-year-copy js-year-copy-enabled"><?php echo e(e2("Kuruluş Yılı")); ?> -<?php echo e(date('Y')); ?></span>
+                                   <?php echo e(e2("Her Hakkı Saklıdır")); ?> © <span class="js-year-copy js-year-copy-enabled"><?php echo e(e2("2021")); ?> -<?php echo e(date('Y')); ?></span>
                                 </p>
                             </div>
                         </div>
@@ -27,7 +27,7 @@
                                     <a class="link-effect font-w700" href="#">
                                         <img src="<?php echo e(url('assets/img/logo.svg')); ?>" width="256" class="img-fluid" alt="" />
                                     </a>
-                                    <h1 class="h3 font-w700 mt-30 mb-10"><?php echo e(e2("Welcome Yazısı")); ?></h1>
+                                    <h1 class="h3 font-w700 mt-30 mb-10"><?php echo e(e2("Hoşgeldiniz")); ?></h1>
                                     <h2 class="h5 font-w400 text-muted mb-0"><?php echo e(e2("Please sign in")); ?></h2>
                                 </div>
                                 <!-- END Header -->

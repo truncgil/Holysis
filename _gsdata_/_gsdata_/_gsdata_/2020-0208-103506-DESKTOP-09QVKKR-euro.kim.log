@@ -1,5 +1,0 @@
-2020-02-08 10:42:00: == Sync Started by Continue After User Wait
-2020-02-08 10:42:01: /storage/app/files/csv-planning/YPTAB_INT.TXT: Analyze error: Two items on Left side are named the same after normalization and lower-casing: '/storage/app/files/csv-planning/YPTAB_INT.txt' vs '/storage/app/files/csv-planning/YPTAB_INT.TXT'
-2020-02-08 10:42:01: Copy Over 'ftp://euro.kim:21/otto2020.euro.kim/storage/framework/sessions/I4FDIRRBoqazpouRa8AJPitDZqC3u9z56mxI1Pu1' -> 'D:/xampp/htdocs/otto2020/storage/framework/sessions/I4FDIRRBoqazpouRa8AJPitDZqC3u9z56mxI1Pu1' (318)
-2020-02-08 10:42:02: == Sync Complete. Time: 00:00:03, Speed: 4.10 KB/s, OK: 1, Errors: 1
-2020-02-08 10:42:03: 

@@ -1,5 +1,5 @@
 @extends('admin.master')
-@section("title","HBSJAPAN")
+@section("title","")
 @section("desc","")
 @section('content')
 @endsection

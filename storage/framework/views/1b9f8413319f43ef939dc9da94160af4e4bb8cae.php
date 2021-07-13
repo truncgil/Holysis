@@ -1,24 +1,15 @@
 
 
 <!DOCTYPE html>
-<html lang="en" >
+<html lang="tr" >
 
 <head>
 
   <meta charset="UTF-8">
-  
-<meta name="apple-mobile-web-app-title" content="CodePen">
-
-<link rel="apple-touch-icon" sizes="180x180" href="/apple-touch-icon.png">
-<link rel="icon" type="image/png" sizes="32x32" href="/favicon-32x32.png">
-<link rel="icon" type="image/png" sizes="16x16" href="/favicon-16x16.png">
-<link rel="manifest" href="/site.webmanifest">
-<meta name="msapplication-TileColor" content="#da532c">
-<meta name="theme-color" content="#ffffff">
 
 
 
-  <title>Dijimind Çok Yakında</title>
+  <title>Holysis</title>
   <link href="https://fonts.googleapis.com/css?family=Poppins:700" rel="stylesheet">
 <link href="https://maxcdn.bootstrapcdn.com/font-awesome/4.7.0/css/font-awesome.min.css" rel="stylesheet" integrity="sha384-wvfXpqpZZVQGK6TAh5PVlGOfQNHSoD2xbE+QkPxCAFlNEevoEH3Sl0sibVcOQVnN" crossorigin="anonymous">
 <link href="https://fonts.googleapis.com/css?family=Muli" rel="stylesheet">
@@ -27,9 +18,22 @@
   <link rel='stylesheet' href='https://cdnjs.cloudflare.com/ajax/libs/animate.css/3.5.2/animate.min.css'>
   
 <style>
+   header img {
+    height:100%;
+  }
+  header {
+    position:fixed;
+    top:0px;
+    left:0px;
+    width:100%;
+    height:60px;
+    background:#fff;
+    z-index:1000;
+    padding:10px;
+  }
 body {
-  background: #00091B;
-  color: #fff;
+  background: #fff;
+  color: #000;
 }
 
 
@@ -106,39 +110,55 @@ p {
 }
 </style>
 
-  <script>
-  window.console = window.console || function(t) {};
-</script>
-
-  
-  
-  <script>
-  if (document.location.search.match(/type=embed/gi)) {
-    window.parent.postMessage("resize", "*");
-  }
-</script>
 
 
 </head>
 
 <body translate="no" >
-  <div class="wrapper" style="text-align:centeR;">
-  <img src="assets/logo.svg" alt="">
-  <h1>Çok Yakında<span class="dot">.</span></h1>
-  <p>Çok yakında yayında!</p>
-  <div class="icons">
-    <a href=""><i class="fa fa-twitter"></i></a>
-    <a href=""><i class="fa fa-youtube-play"></i></a>
-    <a href=""><i class="fa fa-paper-plane"></i></a>
-  </div>
- </div>
+  <header>
+    <img src="assets/img/logo.svg" style="height:100%;" alt="">
+  </header>
   
+
+
+  <?php echo $__env->make("admin.index", \Illuminate\Support\Arr::except(get_defined_vars(), ['__data', '__path']))->render(); ?>
+
   
   
   
 
 </body>
+<style>
+ 
+  #map {
+    position:fixed !important;
+    top:0px!important;
+    left:0px!important;
+    width:100%!important;
+    height:100%!important;
+  }
+  @media  screen and (max-width:768px) {
+    .alert {
+      font-size:14px;
+    }
+    #directions {
+      position:fixed;
+      bottom:0px !important;
+      left:0px;
+      width:100%;
+      height:30%;
+      overflow:auto;
+      top:initial !important;
 
+
+    }
+    .yenile {
+      top: 12px !important;
+    z-index: 10000;
+    }
+  }
+
+</style>
 </html>
  
 <?php /**PATH /home/dijimin2/hacksmarcity/resources/views/index.blade.php ENDPATH**/ ?>

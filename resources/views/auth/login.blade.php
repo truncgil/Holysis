@@ -12,10 +12,10 @@
                         <div class="hero-static col-md-6 col-xl-8 d-none d-md-flex align-items-md-end">
                             <div class="p-30 js-appear-enabled animated fadeIn" data-toggle="appear">
                                 <p class="font-size-h3 font-w600 text-white">
-                                    {{e2("Slogan")}}
+                                    {{e2("Bütünsel Çözümleme Sistemi")}}
                                 </p>
                                 <p class="font-italic text-white-op">
-                                   {{e2("Her Hakkı Saklıdır")}} © <span class="js-year-copy js-year-copy-enabled">{{e2("Kuruluş Yılı")}} -{{date('Y')}}</span>
+                                   {{e2("Her Hakkı Saklıdır")}} © <span class="js-year-copy js-year-copy-enabled">{{e2("2021")}} -{{date('Y')}}</span>
                                 </p>
                             </div>
                         </div>
@@ -26,7 +26,7 @@
                                     <a class="link-effect font-w700" href="#">
                                         <img src="{{url('assets/img/logo.svg')}}" width="256" class="img-fluid" alt="" />
                                     </a>
-                                    <h1 class="h3 font-w700 mt-30 mb-10">{{e2("Welcome Yazısı")}}</h1>
+                                    <h1 class="h3 font-w700 mt-30 mb-10">{{e2("Hoşgeldiniz")}}</h1>
                                     <h2 class="h5 font-w400 text-muted mb-0">{{e2("Please sign in")}}</h2>
                                 </div>
                                 <!-- END Header -->
